@@ -112,7 +112,7 @@ function excluir(i){
 
 # Desenvolvedor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/160857477?v=4" width=95><br><sub>Lucas Henrique da |Silva Carvalho</sub>](https://github.com/lucashenrique233)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/160857477?v=4" width=95><br><sub>Lucas Henrique da Silva Carvalho</sub>](https://github.com/lucashenrique233)
 | :---: |
 
 # Orientador
