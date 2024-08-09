@@ -112,7 +112,7 @@ function excluir(i){
 
 # Desenvolvedor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/111014716?s=400&u=5d8ff835762bc44c2651472ac96f0f9fc1f953a6&v=4" width=95><br><sub>Lucas Henrique da |Silva Carvalho</sub>](https://github.com/lucashenrique233)
+| [<img loading="lazy" src="file:///C:/Users/tavares.l/Downloads/WhatsApp%20Image%202024-08-09%20at%2008.27.56.jpeg" width=95><br><sub>Lucas Henrique da |Silva Carvalho</sub>](https://github.com/lucashenrique233)
 | :--: |
 
 # Orientador
